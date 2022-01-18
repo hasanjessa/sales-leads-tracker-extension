@@ -11,3 +11,5 @@ Chrome extension application that:
 Feel free to make comments or commits on how to improve this prototype extension
 
 Happy Coding !
+
+(Functional Snapshot)[functional-snapshot.png]
